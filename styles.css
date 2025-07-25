@@ -223,10 +223,21 @@ ul {
         margin-top: 120px; 
     }
 
-    .album img{
-        width:100%;
-        margin-left:5px;
-        margin-right:5px;
+   .imagen img {
+        width: 300px;
+        height: 300px;
+
+    }
+
+    .album img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .lugares img {
+        width: 300px;
+        height: 300px;
+
     }
         
 
