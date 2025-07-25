@@ -198,7 +198,7 @@ ul {
     .parteUno {
         flex-direction: column;
         align-items: center;
-        padding: 10px;
+        
     }
 
     .titulo {
@@ -215,13 +215,20 @@ ul {
     .barra button {
         font-size: 0.9rem;
         height: 35px;
-        padding: 5px;
+        
     }
 
     .contenido {
         grid-template-columns: 1fr;
         margin-top: 120px; 
     }
+
+    .album img{
+        width:100%;
+        margin-left:5px;
+        margin-right:5px;
+    }
+        
 
     
 }
